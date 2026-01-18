@@ -1,3 +1,5 @@
+// Navbar component for primary app navigation
+
 import React from 'react';
 import { NavLink, useNavigate } from 'react-router-dom';
 import { useAuth } from '../context/authContext';
