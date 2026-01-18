@@ -109,3 +109,9 @@ Contributions are welcome! Please refer to the [Contributing Guidelines](contrib
 ## **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Project Notes
+
+This project focuses on real-time collaboration using Socket.IO
+with a rich text editor powered by Quill.
+
